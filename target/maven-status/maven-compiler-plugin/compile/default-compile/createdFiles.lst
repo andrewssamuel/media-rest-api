@@ -1,0 +1,3 @@
+com/mediaarts/rest/config/JerseyInitializr.class
+com/mediaarts/rest/resources/MovieResources.class
+com/mediaarts/rest/Repositories/MovieRepository.class
